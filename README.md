@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:mahir.islam.numayeer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/mahir-islam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://yourusername.github.io">
+  <a href="https://drive.google.com/drive/folders/1yT3-F-yaYcdRRyDGDGnnFabJl6Zdtqc_">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
