@@ -4,6 +4,8 @@
   </a>
 </p>
 
+<h2 align="center">A passionate software developer and researcher from Australia</h2>
+
 ---
 
 
