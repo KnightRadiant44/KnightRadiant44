@@ -6,7 +6,10 @@
 
 ---
 
-<h2 align="center">A passionate software developer and researcher from Australia</h2>
+<h2 align="center">A passionate computer science student with a keen interest in AI and Data Science</h2>
+<p align="center">
+  I'm a first-year Bachelor of Computer Science student at the University of Adelaide 🌐. I love working with data, LLM models, bots, and talking with people! 
+</p>
 
 <!--
 **KnightRadiant44/KnightRadiant44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
