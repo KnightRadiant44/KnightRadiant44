@@ -11,7 +11,9 @@
   I'm a first-year Bachelor of Computer Science student at the University of Adelaide 🌐. I love working with data, LLM models, bots, and talking with people! 
 </p>
 
-![til](https://github.com/KnightRadiant44/KnightRadiant44/blob/7636db7207ea9da76f33d300798f38f09c12bc87/5bgn.gif)
+<p align="center">
+  <img src="https://github.com/KnightRadiant44/KnightRadiant44/blob/7636db7207ea9da76f33d300798f38f09c12bc87/5bgn.gif" alt="animated" style="width:100%; max-width:600px;" />
+</p>
 
 <!--
 **KnightRadiant44/KnightRadiant44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
