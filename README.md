@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/mahir-islam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://drive.google.com/drive/folders/1yT3-F-yaYcdRRyDGDGnnFabJl6Zdtqc_">
+  <a href="https://drive.google.com/file/d/1bwRq6JVk_as5HJJZsMANMDTFgg1jEECo/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
   </a>
 </p>
