@@ -4,10 +4,9 @@
   </a>
 </p>
 
-<h2 align="center">A passionate software developer and researcher from Australia</h2>
-
 ---
 
+<h2 align="center">A passionate software developer and researcher from Australia</h2>
 
 <!--
 **KnightRadiant44/KnightRadiant44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
