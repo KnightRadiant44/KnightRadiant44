@@ -6,20 +6,8 @@
 
 ---
 
-<h2 align="center">A passionate computer science student with a keen interest in AI and Data Science</h2>
+<h2 align="center">A CS student with a special interest in problem-solving & anything mathematics-related.</h2>
 <p align="center">
-  I'm a first-year Bachelor of Computer Science student at the University of Adelaide 🌐. I love working with data, LLM models, bots, and talking with people! 
-</p>
-
-<p align="center">
-  <a href="mailto:mahir.islam.numayeer@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/mahir-islam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://drive.google.com/file/d/1bwRq6JVk_as5HJJZsMANMDTFgg1jEECo/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a>
+  I'm a second-year Bachelor of Computer Science student at the University of Adelaide. I love solving problems & puzzles, participating in contests online, and building stuff in my free time! 
 </p>
 
